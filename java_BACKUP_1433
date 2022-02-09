@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+java				#dev2 
+{
+printf(hello india)		#dev2
+scanf(file)
+}
+{dev2} 				#dev2
+=======
+java                         #dev1
+{
+printf(hello india)          #dev1
+scanf(file)
+}                            #dev1
+>>>>>>> e5fc38dbcb2b0f6b3d880ee58db64bc07fa5086d
