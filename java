@@ -1,5 +1,6 @@
-java 
+java				#dev2 
 {
-printf(hello india)
+printf(hello india)		#dev2
 scanf(file)
 }
+{dev2} 				#dev2
